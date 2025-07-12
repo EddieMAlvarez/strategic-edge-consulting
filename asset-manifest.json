@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/strategic-edge-consulting/static/css/main.e6c13ad2.css",
+    "main.js": "/strategic-edge-consulting/static/js/main.f5920048.js",
+    "index.html": "/strategic-edge-consulting/index.html",
+    "main.e6c13ad2.css.map": "/strategic-edge-consulting/static/css/main.e6c13ad2.css.map",
+    "main.f5920048.js.map": "/strategic-edge-consulting/static/js/main.f5920048.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f5920048.js"
+  ]
+}
