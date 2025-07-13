@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/strategic-edge-consulting/static/css/main.fbf8b860.css",
-    "main.js": "/strategic-edge-consulting/static/js/main.5007619b.js",
+    "main.js": "/strategic-edge-consulting/static/js/main.fafc1773.js",
     "index.html": "/strategic-edge-consulting/index.html",
     "main.fbf8b860.css.map": "/strategic-edge-consulting/static/css/main.fbf8b860.css.map",
-    "main.5007619b.js.map": "/strategic-edge-consulting/static/js/main.5007619b.js.map"
+    "main.fafc1773.js.map": "/strategic-edge-consulting/static/js/main.fafc1773.js.map"
   },
   "entrypoints": [
     "static/css/main.fbf8b860.css",
-    "static/js/main.5007619b.js"
+    "static/js/main.fafc1773.js"
   ]
 }
